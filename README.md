@@ -1,0 +1,2 @@
+# pyplot_barchat
+用matplotlib和seaborn畫橫條圖
